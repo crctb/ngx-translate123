@@ -14,7 +14,7 @@
     "@types/jasmine": "^3.5.2",
     "@types/jasminewd2": "^2.0.8",
     "@types/node": "^13.5.2",
-    "core-js": "^3.6.4",
+    "core-js": "2.5.7",
     "localize-router": "^1.0.1",
     "rxjs": "^6.5.4",
     "zone.js": "^0.10.2"
